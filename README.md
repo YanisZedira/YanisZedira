@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Data Analyst & Engineer | Healthcare & AI Enthusiast</strong><br>
   <em>Currently working at 
-    <img src="https://www.avecdesmots.com/wp-content/uploads/2017/12/SUEZ_logo.png" alt="SUEZ logo" height="20" style="vertical-align: middle;"/>
+              <img src="https://www.avecdesmots.com/wp-content/uploads/2017/12/SUEZ_logo.png" alt="SUEZ logo" height="50" style="vertical-align: middle;"/>
   </em>
 </p>
  | Researching brain cancer through AI and data science</em>
