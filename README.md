@@ -4,7 +4,7 @@
   <strong>Data Analyst & Engineer | Healthcare & AI Enthusiast</strong><br>
   <em>
 Currently at 
-<img src="https://www.avecdesmots.com/wp-content/uploads/2017/12/SUEZ_logo.png" alt="SUEZ logo" height="20" style="vertical-align: bottom;"/> 
+<img src="https://www.avecdesmots.com/wp-content/uploads/2017/12/SUEZ_logo.png" alt="SUEZ logo" height="40" style="vertical-align: bottom;"/> 
 as a Data Analyst & Engineer.  
 In parallel, I lead independent research on brain cancer using AI and medical data.
 </em>
