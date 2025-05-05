@@ -2,8 +2,12 @@
 
 <p align="center">
   <strong>Data Analyst & Engineer | Healthcare & AI Enthusiast</strong><br>
-  <em>Currently working at Suez | Researching brain cancer through AI and data science</em>
-</p>
+  <em>Currently at 
+  <img src="https://www.avecdesmots.com/wp-content/uploads/2017/12/SUEZ_logo.png" alt="SUEZ logo" height="20" style="vertical-align: middle;"/> 
+  as a Data Analyst & Engineer.  
+  In parallel, I lead independent research on brain cancer using AI and medical data.
+</em>
+
 
 ---
 
