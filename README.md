@@ -30,7 +30,7 @@
 - 🧪 Public health data pipelines and data engineering for research reproducibility  
 - 📊 Advanced dashboards & storytelling in Power BI, Python (Plotly), and Streamlit
 
-> 🎯 Goal: Leverage data to drive innovation in public health, pharma R&D, and precision medicine — particularly in oncology and neuroscience.
+> 🎯 Goal: Leverage data to drive innovation in public health, pharma R&D, and precision medicine — particularly in oncology, endocrinology and neuroscience.
 
 ---
 
@@ -71,7 +71,7 @@
 ## 📫 Let's Connect
 
 - 📍 Based in France  
-- 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/yaniszedira/) *(ajuste ton lien !)*  
+- 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/yaniszedira/) 
 - 🌐 Portfolio & projects: [https://github.com/YanisZ](https://github.com/YanisZ)
 
 ---
