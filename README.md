@@ -28,7 +28,7 @@
 
 - 🧠 Medical AI, deep learning & computer vision for oncology  
 - 🧪 Public health data pipelines and data engineering for research reproducibility  
-- 📊 Advanced dashboards & storytelling in Power BI, Python (Plotly), and Streamlit
+- 📊 Advanced dashboards & storytelling in Power BI, Python , Streamlit and Looker Studio
 
 > 🎯 Goal: Leverage data to drive innovation in public health, pharma R&D, and precision medicine — particularly in oncology, endocrinology and neuroscience.
 
