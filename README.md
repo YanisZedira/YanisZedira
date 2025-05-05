@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Data Analyst & Engineer | Healthcare & AI Enthusiast</strong><br>
-  <em>Currently working at <b>SUEZ</b> | Researching brain cancer through AI and data science</em>
+  <em>Currently working at <b>SUEZ</b> <img src="https://www.pujols-sur-ciron.fr/wp-content/uploads/2018/06/logo-SUEZ-2.gif" alt="SUEZ logo" width="120"/>
+ | Researching brain cancer through AI and data science</em>
 </p>
 
 ---
