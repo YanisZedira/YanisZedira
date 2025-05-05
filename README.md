@@ -20,7 +20,7 @@
 | 🔭 What I'm doing now | Project | Link |
 |-----------------------|---------|------|
 | Working at SUEZ as a Data Analyst & Engineer (apprenticeship) | Internal Analytics Tools & Dashboards | — |
-| Research on AI-based brain tumor recognition | Brain Tumor Recognition | [🔗 GitHub Project](https://github.com/YanisZ) |
+| Research on AI-based brain tumor recognition | Brain Tumor Recognition | [🔗 GitHub Project]([https://github.com/YanisZ](https://github.com/YanisZedira/Brain_Tumor_Recognition)) |
 
 ---
 
