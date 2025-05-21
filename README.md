@@ -87,3 +87,5 @@ In parallel, I lead independent research on brain cancer using AI and medical da
 📊 Whether it’s structuring health data, creating decision dashboards, or training predictive models — I’m ready to contribute.
 
 ---
+
+![snake gif](https://github.com/YanisZedira/YanisZedira/blob/output/github-snake-dark.svg)
