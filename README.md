@@ -26,6 +26,7 @@ In parallel, I lead independent research on brain cancer using AI and medical da
 |-----------------------|---------|------|
 | Working at SUEZ as a Data Analyst & Engineer (apprenticeship) | Internal Analytics Tools & Dashboards | — |
 | Research on AI-based brain tumor recognition | Brain Tumor Recognition | [🔗 GitHub Project](https://github.com/YanisZedira/Brain_Tumor_Recognition) |
+| Health Dashboard for Sanofi | Sanofi Health Analytics | [🔗 GitHub Project](https://github.com/YanisZedira/Brain_Tumor_Recognition) |https://github.com/YanisZedira/Dashboard-Sanofi
 
 ---
 
