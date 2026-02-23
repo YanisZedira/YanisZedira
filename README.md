@@ -26,7 +26,7 @@ In parallel, I lead independent research on brain cancer using AI and medical da
 |-----------------------|---------|------|
 | Working at SUEZ as a Data Analyst & Engineer (apprenticeship) | Internal Analytics Tools & Dashboards | — |
 | Research on AI-based brain tumor recognition | Brain Tumor Recognition | [🔗 GitHub Project](https://github.com/YanisZedira/Brain_Tumor_Recognition) |
-| Health Dashboard for Sanofi | Sanofi Health Analytics | [🔗 Power Bi Dashboard ]([https://github.com/YanisZedira/Brain_Tumor_Recognition](https://app.powerbi.com/view?r=eyJrIjoiNWU1NDIyNjctMTRkMS00YjVjLTgzNTQtODIxNTMxY2RjYmUzIiwidCI6IjRiY2NkMmViLWU2MTAtNDcxMi1iOWIzLTI0N2EyZjRlZTQwOCJ9)) |https://app.powerbi.com/view?r=eyJrIjoiNWU1NDIyNjctMTRkMS00YjVjLTgzNTQtODIxNTMxY2RjYmUzIiwidCI6IjRiY2NkMmViLWU2MTAtNDcxMi1iOWIzLTI0N2EyZjRlZTQwOCJ9
+| Health Dashboard for Sanofi | Sanofi Health Analytics | [🔗 Power Bi Dashboar ]([https://github.com/YanisZedira/Brain_Tumor_Recognition](https://app.powerbi.com/view?r=eyJrIjoiNWU1NDIyNjctMTRkMS00YjVjLTgzNTQtODIxNTMxY2RjYmUzIiwidCI6IjRiY2NkMmViLWU2MTAtNDcxMi1iOWIzLTI0N2EyZjRlZTQwOCJ9) |https://app.powerbi.com/view?r=eyJrIjoiNWU1NDIyNjctMTRkMS00YjVjLTgzNTQtODIxNTMxY2RjYmUzIiwidCI6IjRiY2NkMmViLWU2MTAtNDcxMi1iOWIzLTI0N2EyZjRlZTQwOCJ9
 
 ---
 
